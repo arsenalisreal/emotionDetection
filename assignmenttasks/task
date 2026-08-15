@@ -1,0 +1,26 @@
+Task 2:
+{'anger': 0.01, 'disgust': 0.01, 'fear': 0.01, 'joy': 0.95, 'sadness': 0.01, 'dominant_emotion': 'joy'}
+
+Task 3:
+{'anger': 0.95, 'disgust': 0.01, 'fear': 0.01, 'joy': 0.01, 'sadness': 0.01, 'dominant_emotion': 'anger'}
+
+Task 4:
+{'anger': 0.95, 'disgust': 0.01, 'fear': 0.01, 'joy': 0.01, 'sadness': 0.01, 'dominant_emotion': 'anger'}
+
+Task 5:
+.
+----------------------------------------------------------------------
+Ran 1 test in 29.562s
+
+OK
+
+Task 6:
+image attached in he folder
+Task 7:
+image attached in he folder
+
+Task 8:
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
